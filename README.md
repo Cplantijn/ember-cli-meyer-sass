@@ -1,5 +1,5 @@
 Meyer's Reset Stylesheet in SASS for ember CLI
-==============================================
+----------------------------------------------
 
 This is an ember-cli addon that includes [Eric Meyer's reset CSS in SASS](https://github.com/adamstac/meyer-reset) to ember-cli
 
