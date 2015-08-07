@@ -56,7 +56,7 @@
     "configPath": "tests/dummy/config"
   },
   "homepage": "https://github.com/cplantijn/ember-cli-meyer-sass",
-  "readme": "ERROR: No README data found!",
+  "readme": "README.md",
   "_id": "ember-cli-meyer-reset-sass@0.0.1",
   "_shasum": "008b5b818355e88865ff95040aa39e2741f2c7e5",
   "_from": "ember-cli-meyer-reset-sass@*"
